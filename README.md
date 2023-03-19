@@ -12,7 +12,7 @@ The program takes in a .fdf file, wich contains the coordinates of the landscape
 
 Where the horizontal position corresponds to its axis. The vertical position corresponds to its ordinate. The value corresponds to its altitude.
 
-Diferrent colors can be defined to each point using True Colors. The color code should be provided after the altitude of the point, separated by a colon. Example:
+Distinct colors can be defined to each point using True Colors. The color code should be provided after the altitude of the point, separated by a colon. Example:
 
 ![image](https://user-images.githubusercontent.com/79791165/226208250-c7e629c6-70f3-4943-b0f9-5cf37877f7f5.png)
 
