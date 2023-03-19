@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 09:57:01 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/16 09:57:03 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:58:14 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 void	draw_map(t_dat dat)
 {

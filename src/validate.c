@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/22 16:29:26 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/18 13:51:57 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:58:32 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 int	validate_entry(int argc, char **argv, t_dat *dat)
 {

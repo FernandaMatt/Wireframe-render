@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/21 19:49:36 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/23 11:20:12 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:57:49 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 void	get_data_sz(t_dat *dat, char *file)
 {

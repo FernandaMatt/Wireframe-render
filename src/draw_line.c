@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/21 17:01:55 by fcaetano          #+#    #+#             */
-/*   Updated: 2022/12/21 17:01:59 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:57:36 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 void	img_ppix(t_img img, int x, int y, int true_color)
 {

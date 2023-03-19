@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 09:55:12 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/16 09:55:17 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:57:21 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 int	check_hex(char *hex)
 {

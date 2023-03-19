@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/21 17:02:43 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/23 11:23:45 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:58:47 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 int	render(t_dat *dat)
 {

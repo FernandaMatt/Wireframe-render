@@ -1,6 +1,13 @@
 NAME = fdf
 
-SRCS = main.c draw_line.c fdf_utils.c window.c validate.c checkers.c process_data.c plot.c
+SRCS = src/main.c \
+	   src/draw_line.c \
+	   src/fdf_utils.c \
+	   src/window.c \
+	   src/validate.c \
+	   src/checkers.c \
+	   src/process_data.c \
+	   src/plot.c
 
 OBJS = $(SRCS:.c=.o)
 

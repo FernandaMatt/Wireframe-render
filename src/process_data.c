@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 09:57:10 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/16 09:57:12 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:58:24 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 void	get_minmax_values(t_dat *dat)
 {

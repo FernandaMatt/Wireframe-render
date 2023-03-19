@@ -6,11 +6,11 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/13 16:01:51 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/18 13:51:14 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 16:58:00 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../include/fdf.h"
 
 void	init_dat(t_dat *dat, char **argv, int argc)
 {

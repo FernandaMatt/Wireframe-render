@@ -6,14 +6,14 @@
 /*   By: fcaetano <fernandacunha@id.uff.br>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 09:56:05 by fcaetano          #+#    #+#             */
-/*   Updated: 2023/01/23 11:23:26 by fcaetano         ###   ########.fr       */
+/*   Updated: 2023/03/19 17:01:04 by fcaetano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FDF_H
 
 # define FDF_H
-# include "libft/libft.h"
+# include "../libft/libft.h"
 # include <fcntl.h>
 # include <math.h>
 # include "mlx/mlx.h"
